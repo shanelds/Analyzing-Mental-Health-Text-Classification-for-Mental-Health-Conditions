@@ -1,12 +1,19 @@
 # Mental Health Text Classification
 
-This project aims to classify a person’s mental or emotional state based on short text statements (such as social media posts or messages). The goal is to assist in early detection of mental health conditions through natural language processing (NLP).
+This project aims to classify a person’s mental or emotional state based on short text statements (such as social media posts or messages). The goal is to support in early detection of mental health conditions through natural language processing (NLP).
+
+---
+
+## 🎯 Goal
+The goal of this project is to explore whether machine learning models can accurately classify emotional and mental health states from short texts. We compare several models and aim to identify the most effective one for predicting mental health conditions.
 
 ---
 
 ## 📊 Visual Abstract
 
-![Visual Abstract](presentation/visual_abstract.png)
+The figure below illustrates the overall workflow of our project — from input text to model processing and final prediction:
+
+
 
 ---
 
