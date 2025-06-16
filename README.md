@@ -112,21 +112,17 @@ We also used a confusion matrix to visualize the distribution of predictions acr
 
 ---
 
-## Quick Start  
+## Quick Start
 
-#### Clone the repository  
-
+### Clone the repository
+```bash
 git clone https://github.com/shanelds/Analyzing-Mental-Health-Text-Classification-for-Mental-Health-Conditions.git
 cd Analyzing-Mental-Health-Text-Classification-for-Mental-Health-Conditions
 
-
-#### Install dependencies
-
+### Install dependencies
 pip install -r requirements.txt
 
-
-#### Run the notebooks
-
+### Run the notebooks
 jupyter notebook notebooks/FINAL_CODE.ipynb
 
 ---
