@@ -114,7 +114,7 @@ We also used a confusion matrix to visualize the distribution of predictions acr
 
 ## Quick Start
 
-### Clone the repository
+## Clone the repository
 ```bash
 git clone https://github.com/shanelds/Analyzing-Mental-Health-Text-Classification-for-Mental-Health-Conditions.git
 cd Analyzing-Mental-Health-Text-Classification-for-Mental-Health-Conditions
