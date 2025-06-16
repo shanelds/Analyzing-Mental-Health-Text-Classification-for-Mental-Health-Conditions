@@ -131,8 +131,8 @@ jupyter notebook notebook/FINAL_CODE.ipynb
 
 ---
 
-
 ## Team
+
 * Shahar Sadon
 * Shanel Asulin
 * Dudi Saadia
