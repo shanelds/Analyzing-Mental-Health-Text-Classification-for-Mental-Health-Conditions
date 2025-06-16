@@ -13,6 +13,8 @@ The goal of this project is to explore whether machine learning models can accur
 
 The figure below illustrates the overall workflow of our project — from input text to model processing and final prediction:
 
+![Visual Abstract](https://github.com/shanelds/Analyzing-Mental-Health-Text-Classification-for-Mental-Health-Conditions/blob/main/VISUAL%20ABSTRACT.png?raw=true)
+
 
 
 ---
