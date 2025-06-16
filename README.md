@@ -27,8 +27,8 @@ The project uses a combined dataset containing over 53,000 labeled text statemen
 * Additional dataset
 [https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp](https://github.com/rafalposwiata/depression-detection-lt-edi-2022)
 
-**All datasets were merged and cleaned for training and evaluation.
-**
+-All datasets were merged and cleaned for training and evaluation.
+
 
 ---
 
