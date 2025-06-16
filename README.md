@@ -22,9 +22,11 @@ The figure below illustrates the overall workflow of our project — from input 
 The project uses a combined dataset containing over 53,000 labeled text statements related to mental health states. The main sources include:
 
 * Kaggle - Mental Health Text Dataset
+  
 [https://www.kaggle.com/datasets/tannergrossmann/mental-health-text](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health)
 
 * Additional dataset
+  
 [https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp](https://github.com/rafalposwiata/depression-detection-lt-edi-2022)
 
 -All datasets were merged and cleaned for training and evaluation.
@@ -82,15 +84,29 @@ We also used a confusion matrix to visualize the distribution of predictions acr
 ## 🗂️ Folder Structure
 
 ├── data
+
 │ ├── cleaned_data_readyy.csv
+
 │ ├── cleaned_merged_dataset.zip
+
 │ ├── final_data_.csv
+
 │ └── merged_dataset.zip
+
+
 ├── notebook
+
 │ └── FINAL_CODE.ipynb
+
+
 ├── presentation
+
 │ ├── FINAL PROJECT - Analyzing Mental Health - text classification for mental health conditions.pdf
+
 │ └── Interim Report – NLP Final Project_Analyzing Mental Health.pdf
+
+
+
 ├── README.md
 └── VISUAL ABSTRACT.png
 
