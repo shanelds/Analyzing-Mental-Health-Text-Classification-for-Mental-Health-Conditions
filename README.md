@@ -82,33 +82,43 @@ We also used a confusion matrix to visualize the distribution of predictions acr
 ## 🗂️ Folder Structure
 
 data
-┣ merged_dataset.csv
-┣ cleaned_merged_dataset.csv
 ┣ cleaned_data_readyy.csv
+┣ cleaned_merged_dataset.zip
 ┣ final_data_.csv
+┣ merged_dataset.zip
 
 notebook
 ┣ FINAL_CODE.ipynb
 
 presentation
-┣ NLP FINAL PROJECT.pptx
-┣ Interim Report – NLP Final Project.pptx
+┣ FINAL PROJECT - Analyzing Mental Health - text classification for mental health conditions.pdf
+‏‏Interim Report – NLP Final Project_Analyzing Mental Health.pdf
+
+
 
 README.md
+VISUAL ABSTRACT.png
+
+---
+
+## Quick Start  
+
+#### Clone the repository  
+
+git clone https://github.com/YourUserName/YourRepoName.git
+cd YourRepoName
+
+
+#### Install dependencies
+
+pip install -r requirements.txt
+
+
+#### Run the notebooks
+
+jupyter notebook notebooks/FINAL_CODE.ipynb
 
 ---
 
 
-
-
-
-
-
-## 📝 Introduction
-
-Early identification of mental health conditions is essential for timely intervention and support. This project focuses on classifying text statements into mental health categories (e.g., Depression, Normal, Suicidal) using various machine learning and deep learning models. The best performing model was **Distil-BERT** with an accuracy of **79.3%**.
-
----
-
-## 📂 Project Structure
 
