@@ -81,33 +81,18 @@ We also used a confusion matrix to visualize the distribution of predictions acr
 
 ## 🗂️ Folder Structure
 
-data
-
-┣ cleaned_data_readyy.csv
-
-┣ cleaned_merged_dataset.zip
-
-┣ final_data_.csv
-
-┣ merged_dataset.zip
-
-
-
-notebook
-
-┣ FINAL_CODE.ipynb
-
-
-
-presentation
-
-┣ FINAL PROJECT - Analyzing Mental Health - text classification for mental health conditions.pdf
-‏‏Interim Report – NLP Final Project_Analyzing Mental Health.pdf
-
-
-
-README.md
-VISUAL ABSTRACT.png
+├── data
+│ ├── cleaned_data_readyy.csv
+│ ├── cleaned_merged_dataset.zip
+│ ├── final_data_.csv
+│ └── merged_dataset.zip
+├── notebook
+│ └── FINAL_CODE.ipynb
+├── presentation
+│ ├── FINAL PROJECT - Analyzing Mental Health - text classification for mental health conditions.pdf
+│ └── Interim Report – NLP Final Project_Analyzing Mental Health.pdf
+├── README.md
+└── VISUAL ABSTRACT.png
 
 ---
 
